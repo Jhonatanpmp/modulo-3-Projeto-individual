@@ -1,0 +1,211 @@
+{
+    "Ferramentas-eletricas":[
+        {
+            "id": 1,
+            "ferramenta": "Furadeira",
+            "imagem": "https://m.media-amazon.com/images/I/71B+VwD3GGL._AC_SL1500_.jpg",
+            "preço": "247,12",
+            "marca": "Black Decker"
+        },
+        {
+            "id": 2,
+            "ferramenta": "Serra tico-tico",
+            "imagem": "https://d365e82sgxmduv.cloudfront.net/Custom/Content/Products/10/90/1090065_serra-tico-tico-com-1-velocidade-400w-ks405-black-decker_m1_636662214327407900.jpg",
+            "preço": "230,66",
+            "marca": "Black Decker"
+        },
+        {
+            "id": 3,
+            "ferramenta": "Lixadeira",
+            "imagem": "data:image/jpeg;base64,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",
+            "preço": "431,00",
+            "marca": "DeWalt"
+        },
+        {
+            "id": 4,
+            "ferramenta": "Parafusadeira",
+            "imagem": "https://www.taqi.com.br/ccstore/v1/images/?source=/file/v3589116385236644294/products/184943.01-furadeira-parafusadeira-black-decker-bcd704c11ba-20v.jpg&height=1000&width=1000&quality=1.0",
+            "preço": "489,80",
+            "marca": "Black Decker"
+        },
+        {
+            "id": 5,
+            "ferramenta": "Repuxadeira Elétrica  ",
+            "imagem": "https://img.lojadomecanico.com.br/IMAGENS/46/448/156658/1610568271968.JPG",
+            "preço": "1.299,90",
+            "marca": "Spotcar"
+        },
+        {
+            "id": 6,
+            "ferramenta": "Compressor de Ar",
+            "imagem": "https://img.lojadomecanico.com.br/IMAGENS/21/159/198501/1633615979374.JPG",
+            "preço": "1.999,90",
+            "marca": "FORTG"
+        },
+        {
+            "id": 7,
+            "ferramenta": "Martelete Combinado",
+            "imagem": "https://img.lojadomecanico.com.br/IMAGENS/21/230/4106/Martelete-Combinado-800W-220V-com-Maleta-makita-hr24702.JPG",
+            "preço": "729,90",
+            "marca": "MAKITA"
+        },
+        {
+            "id": 8,
+            "ferramenta": "Moto Esmeril",
+            "imagem": "https://img.lojadomecanico.com.br/IMAGENS/21/225/4763/Moto-Esmeril-360W---220V-motomil-mmi-501.JPG",
+            "preço": "238,00",
+            "marca": "MOTOMIL"
+        },
+        {
+            "id": 9,
+            "ferramenta": "Soprador Térmico",
+            "imagem": "https://img.lojadomecanico.com.br/IMAGENS/21/228/104924/1649969083052.JPG",
+            "preço": "264,88",
+            "marca": "SKIL"
+        },
+        {
+            "id": 11,
+            "ferramenta": "Motobomba Centrifuga",
+            "imagem": "https://img.lojadomecanico.com.br/IMAGENS/21/620/183083/1624037853917.JPG",
+            "preço": "1.169,90",
+            "marca": "ELETROPLAS"
+        },
+        {
+            "id": 12,
+            "ferramenta": "Aspirador de Água e Pó",
+            "imagem": "https://img.lojadomecanico.com.br/IMAGENS/22/739/101083/Aspirador-de-Agua-e-Po-20-Litros-1600W-2-wap-gtw-inox-201.JPG",
+            "preço": "479,90",
+            "marca": "WAP"
+        }
+    ],
+    "Ferramentas-Manuais":[
+        {
+            "id":1,
+            "ferramenta": "Martelo",
+            "image": "https://img.lojadomecanico.com.br/IMAGENS/2/253/94089/Martelo-Unha-Tamboreado-com-Cabo-de-Made-momfort-560225-1.JPG",
+            "preço": "42,49",
+            "marca": "MomFort"
+        },
+        {
+            "id":2,
+            "ferramenta": "Jogo de chave de fenda e Philips",
+            "image": "data:image/jpeg;base64,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",
+            "preço": "58,90",
+            "marca": "Vonder"
+        },
+        {
+            "id":3,
+            "ferramenta": "Grampeador de Pressão",
+            "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTntbpe7Bn7tEE9_5eP90XMNNxMf_O-SJCIr4z8w7B4zUBsJ58yVbthBojsp2rEG0wklFDXM_oCCBkdI5tQdskz5J5qUlcZyplyolCQpif1pYvdGD-15pac0w&usqp=CAE",
+            "preço": "49,97",
+            "marca": "Sparta"
+        },
+        {
+            "id":4,
+            "ferramenta": "Chave inglesa",
+            "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQRC5PPsQaaYhQzqxh6RyVQHM4WOh5F5j2yvyckaS6TlgJ__iafpFUcMyuZjqcs_2HzThZSQ9qh2uR1LqG0jSpiMbRLmswAyiEbi9Hz6s_9taaCdyCj1jU9&usqp=CAE",
+            "preço": "16,99",
+            "marca": "Sparta"
+        }
+
+    ],
+    "Ferramentas-Jardinagem": [
+        {
+            "id": 1,
+            "ferramenta": "Aparador de Grama Elétrico",
+            "preço": "294.90",
+            "imagem": "https://cdn.leroymerlin.com.br/products/aparador_de_grama_ap1500w_220v_sterwins_90409515_0004_1800x1800.jpg",
+            "marca": "Sterwins"
+        },
+        {
+            "id": 2,
+            "ferramenta": "Tesoura para Poda Profissional",
+             "preço": "44.99",
+            "imagem": "https://cdn.leroymerlin.com.br/products/tesoura_para_poda_profissional_21cm_89839722_0002_1800x1800.jpg",
+             "marca": "Tramontina"
+        },
+        {
+             "id": 3,
+            "ferramenta": "Tesoura para Grama Aço",
+            "preço": "88.90",
+            "imagem": "https://cdn.leroymerlin.com.br/products/tesoura_para_grama__aco_90724893_0004_1800x1800.jpg",
+            "marca": "Tramontina"
+        },
+        {
+             "id": 4,
+            "ferramenta": "Tesourão de Poda Aluminio",
+            "preço": "159.90",
+            "imagem": "https://cdn.leroymerlin.com.br/products/tesourao_de_poda_aluminio_57,8cm_geolia_91072345_84d4_1800x1800.jpg",
+            "marca": "Geolia"
+        },
+        {
+            "id": 5,
+            "ferramenta": "Cortador de Grama Elétrico",
+            "preço": "579.90",
+            "imagem": "https://cdn.leroymerlin.com.br/products/cortador_de_grama_eletrico_ce35p_1300w_127v_110v__89845826_e23f_1800x1800.jpg",
+            "marca": "Tramontina"
+        },
+        {
+            "id": 10,
+            "ferramenta": "Trator Cortador de Grama",
+            "imagem": "https://img.lojadomecanico.com.br/IMAGENS/33/453/187531109/tratorcort-idany-122965821.JPG", 
+            "preço": "20.514,96",
+            "marca": "Vonder"
+        }
+
+    ],
+    "utensilios":[
+        {
+            "id": 1,
+            "Ferramenta": "Broca",
+            "image": "https://telhanorte.vteximg.com.br/arquivos/ids/304266-NaN-NaN/Broca-para-concreto-Impact-4mm-Bosch.jpg?v=636645302778270000",
+            "preço": "7,38",
+            "marca": "Bosch"
+        },
+        {
+            "id": 2,
+            "Ferramenta": "Prego em aço",
+            "image": "https://db7qxt7xxlq5m.cloudfront.net/fit-in/538x538/filters:fill(ffffff)/filters:quality(70)/n49shopv2_primos/images/products/7898513370078-1.jpg",
+            "preço": "35,90",
+            "marca": "multiflix"
+        },
+        {
+            "id": 3,
+            "Ferramenta": "Grampo",
+            "image": "https://imagens.gimba.com.br/objetosmidia/ExibirObjetoMidia?Id=118531",
+            "preço": "1,60",
+            "marca": "cavia"
+        },
+        {
+            "id": 4,
+            "Ferramenta": "Jogo de Laminas serra tico-tico",
+            "image": "https://m.media-amazon.com/images/I/61ZxN1Ym7vL._AC_SY679_.jpg",
+            "preço": "50,00",
+            "marca": "vonder"
+        },
+        {
+            "id": 5,
+            "Ferramenta": "Martelo Unha Cabeça",
+            "image": "https://m.media-amazon.com/images/I/51rP6L10GKL._AC_SX466_.jpg",
+            "preço": "20,00",
+            "marca": "Mtx"
+
+        },{
+            "id": 6,
+            "Ferramenta": "pa quadrada",
+            "image": "https://cdn.leroymerlin.com.br/products/pa_quadrada_24cmx71cm_90246212_0002_600x600.jpg",
+            "preço": "50,00",
+            "marca": "tramontina"
+ 
+        },{
+            "id":7 ,
+            "Ferramenta": "Afiador de Facas ",
+            "image": "https://m.media-amazon.com/images/I/61CeTgMHitL._AC_SX466_.jpg",
+            "preço": "70,00",
+            "marca": "vonder"
+        }
+
+    ]
+    
+    
+}
